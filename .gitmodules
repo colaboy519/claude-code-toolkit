@@ -1,0 +1,3 @@
+[submodule "mcp-servers/webharvest"]
+	path = mcp-servers/webharvest
+	url = https://github.com/colaboy519/webharvest.git
