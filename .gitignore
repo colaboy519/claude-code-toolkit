@@ -3,3 +3,6 @@ node_modules/
 .env
 .credentials.json
 *.lock
+
+.DS_Store
+__pycache__/
